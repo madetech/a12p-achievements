@@ -252,9 +252,7 @@ Earn an entry-level cloud (or platform) certification (e.g. AWS Certified Cloud 
 ### Green Software Practitioner
 **Duties:** D11 · **KSBs:** K22, S16, B2
 
-Complete the Green Software Foundation's [Green Software Practitioner](https://movement.greensoftware.foundation/spaces/19525645/page) course. 
-
-> Can you find a way to use Green Software principles to reduce the environmental impact of your project?
+Complete the Green Software Foundation's [Green Software Practitioner](https://movement.greensoftware.foundation/spaces/19525645/page) course. Use Green Software principles to identify one way to reduce the environmental impact of your project.
 
 ### Horizon Scanner *(advanced)*
 **Duties:** D11 · **KSBs:** K22, S16, B2
