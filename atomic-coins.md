@@ -242,25 +242,29 @@ Tune the alert thresholds/configuration on an existing monitor — ideally align
 ## Theme 10: Continuous Learning
 *Duties: D11*
 
-### Cert It
-**Duties:** D11 · **KSBs:** K25
+### Certified
+**Duties:** D11 · **KSBs:** K25, S16, B2
 
-Earn an entry-level cloud (or closely-related platform) certification — e.g. AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals (AZ-900), Google Cloud Digital Leader, or a Databricks Fundamentals/Associate-level accreditation. Got something else in mind? Talk to your mentor/point of contact — we're happy to consider other entry-level certifications relevant to cloud/DevOps practice on a case-by-case basis.
+Earn an entry-level cloud (or platform) certification (e.g. AWS Certified Cloud Practitioner CLF-C02, Microsoft Azure Fundamentals AZ-900, or an associate-level Databricks Certification) 
+
+> Got something else in mind? Talk to your mentor/point of contact about other entry-level certifications relevant to cloud/DevOps practice
 
 ### Green Software Practitioner
-**Duties:** D11 · **KSBs:** K22, S16
-
-Complete the Green Software Foundation's [Green Software Practitioner](https://movement.greensoftware.foundation/spaces/19525645/page) course, and identify one specific way its principles could reduce the environmental impact of your project's software or infrastructure.
-
-### Horizon Scan
 **Duties:** D11 · **KSBs:** K22, S16, B2
 
-Keep a running log of external learning over a set period (e.g. a term of the apprenticeship) — articles, publications, talks, or active participation in a professional community (meetup, forum, conference). Reflect on how at least one item influenced a decision or approach in your actual work.
+Complete the Green Software Foundation's [Green Software Practitioner](https://movement.greensoftware.foundation/spaces/19525645/page) course. Use Green Software principles to identify one way to reduce the environmental impact of your project.
 
-### Teach Your Cert *(advanced)*
-**Duties:** D11, D2 · **KSBs:** S4, S16
+### Horizon Scanner *(advanced)*
+**Duties:** D11 · **KSBs:** K22, S16, B2
 
-Create a short, accessible guide ("101") to a topic you've learned or certified in, and teach it to a colleague. Show the guide and evidence the teaching happened (feedback, follow-up questions, etc.).
+Keep a regular learning journal over a set period (e.g. daily for week, weekly for a month). 
+
+Include references to your learning resources (articles, talks, community events etc.) and document how you can put your learning into practice.
+
+### Teach It! *(advanced)*
+**Duties:** D11, D2 · **KSBs:** S4, S16, B1
+
+Design a simple learning session (approx. ~1-hour) on something relevant to your role, and facilitate it for others. Gather feedback from your participants (through a feedback form, follow-up questions etc.) about their experience.
 
 ---
 
