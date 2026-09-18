@@ -242,10 +242,12 @@ Tune the alert thresholds/configuration on an existing monitor — ideally align
 ## Theme 10: Continuous Learning
 *Duties: D11*
 
-### Cert It
-**Duties:** D11 · **KSBs:** K25
+### Certified
+**Duties:** D11 · **KSBs:** K25, S16, B2
 
-Earn an entry-level cloud (or closely-related platform) certification — e.g. AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals (AZ-900), Google Cloud Digital Leader, or a Databricks Fundamentals/Associate-level accreditation. Got something else in mind? Talk to your mentor/point of contact — we're happy to consider other entry-level certifications relevant to cloud/DevOps practice on a case-by-case basis.
+Earn an entry-level cloud (or platform) certification (e.g. AWS Certified Cloud Practitioner CLF-C02, Microsoft Azure Fundamentals AZ-900, or an associate-level Databricks Certification) 
+
+> Got something else in mind? Talk to your mentor/point of contact about other entry-level certifications relevant to cloud/DevOps practice
 
 ### Green Software Practitioner
 **Duties:** D11 · **KSBs:** K22, S16
