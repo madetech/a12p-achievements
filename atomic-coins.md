@@ -263,10 +263,10 @@ Keep a regular learning journal over a set period (e.g. daily for week, weekly f
 
 Include references to your learning resources (articles, talks, community events etc.) and document how you can put your learning into practice.
 
-### Teach Your Cert *(advanced)*
-**Duties:** D11, D2 · **KSBs:** S4, S16
+### Teach It! *(advanced)*
+**Duties:** D11, D2 · **KSBs:** S4, S16, B1
 
-Create a short, accessible guide ("101") to a topic you've learned or certified in, and teach it to a colleague. Show the guide and evidence the teaching happened (feedback, follow-up questions, etc.).
+Design a simple learning session (approx. ~1-hour) on something relevant to your role, and facilitate it for others. Gather feedback from your participants (through a feedback form, follow-up questions etc.) about their experience.
 
 ---
 
