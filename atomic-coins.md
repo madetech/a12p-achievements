@@ -256,10 +256,12 @@ Complete the Green Software Foundation's [Green Software Practitioner](https://m
 
 > Can you find a way to use Green Software principles to reduce the environmental impact of your project?
 
-### Horizon Scan
+### Horizon Scanner *(advanced)*
 **Duties:** D11 · **KSBs:** K22, S16, B2
 
-Keep a running log of external learning over a set period (e.g. a term of the apprenticeship) — articles, publications, talks, or active participation in a professional community (meetup, forum, conference). Reflect on how at least one item influenced a decision or approach in your actual work.
+Keep a regular learning journal over a set period (e.g. daily for week, weekly for a month). 
+
+Include references to your learning resources (articles, talks, community events etc.) and document how you can put your learning into practice.
 
 ### Teach Your Cert *(advanced)*
 **Duties:** D11, D2 · **KSBs:** S4, S16
