@@ -16,7 +16,7 @@ Achievements are linked to Duties/KSBs so you can see what kind of skills each o
 ## Structure
 Achievements are grouped into 10 themes, each mapping to a cluster of related Duties. 
 
-> **You are not expected to complete every achievement.** You should aim for a minimum of 10 achievements during your apprenticeship. 
+> **You are not expected to complete every achievement.** You should aim for a minimum of 10 achievements during your apprenticeship - try to get at least one from each of the themes. 
 
 As a guideline, aim for at least 1-2 achievements per theme over the course of your apprenticeship, choosing the ones most relevant to your project and interests. 
 
@@ -29,6 +29,11 @@ Each achievement lists:
 - Duties it evidences (D1-D13, per the apprenticeship standard)
 - KSBs it evidences (Knowledge, Skill, and Behaviour references)
 - Evidence — what you need to produce or demonstrate to claim the achievement
+
+> The KSBs linked to an achievement are based on it being completed as written. If you complete it under different circumstances, you may find it maps to different KSBs.
+
+## Contributions
+This framework is open to contributions! The apprenticeship specification may change, and you may find new and exciting ways to evidence your KSBs - PRs contributing new achievements are welcome!
 
 ## Evidence format
 Every achievement should produce a tangible piece of evidence (a pipeline, diagram, test suite, report, written reflection etc.). 
