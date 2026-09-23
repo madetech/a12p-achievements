@@ -18,7 +18,7 @@ Achievements are grouped into 10 themes, each mapping to a cluster of related Du
 
 > **You are not expected to complete every achievement.** You should aim for a minimum of 10 achievements during your apprenticeship - try to get at least one from each of the themes. 
 
-As a guideline, aim for at least 1-2 achievements per theme over the course of your apprenticeship, choosing the ones most relevant to your project and interests. 
+It is not expected that one person completes every achievement on this list. Choose the ones most relevant to your project and interests, and use them to supplement your day-to-day learning.
 
 Some achievements are marked as advanced because they're expected to take longer, be more complex, or because they build upon knowledge you'll need from another achievement or personal project.
 
