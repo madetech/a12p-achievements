@@ -1,27 +1,48 @@
-# a12p-atomic-coins
+# a12p-achievements
 
 ## How this works
-Coins are self-contained, atomic goals that provide evidence towards one or more apprenticeship Duties. Each coin stands on its own — there are no sub-milestones to work through, and no coin depends on a specific scheduled event (training day, cohort activity, etc.). If a coin references a technique or tool, any suitable real example from your own project work counts as evidence.
+> Achievements are self-contained, atomic goals that provide evidence towards one or more apprenticeship Duties / KSBs. 
 
-Coins are a menu for variety and stretch, not a checklist for EPA sign-off. Full KSB coverage is expected to emerge from the sum of your day-to-day work and reflection over the apprenticeship — most of which will never become a coin. We map coins to Duties/KSBs so you can see what kind of skill each one builds, and so your mentors can point you at a specific coin if they spot a KSB that isn't otherwise showing up in your evidence. That's the tags' only job.
+No achievement depends on a specific scheduled event (structured learning, assignment etc.). If an achievement references a technique or tool, any suitable real example from your personal project work should count as evidence.
 
-Coins are grouped into 10 themes, each mapping to a cluster of related Duties. **You are not expected to complete every coin.** As a guideline, aim for at least 1-2 coins per theme over the course of your apprenticeship, choosing the ones most relevant to your project and interests. Coins marked (advanced) are a deliberate step up in one of two ways: some build on top of a base skill into more confidently intermediate technical territory (you'll usually have done a base coin in that theme, or have equivalent experience); others call for interpersonal or mentoring skills — the kind of stretch that's less about theme familiarity and more about confidence working with and through other people. Either way, they're optional deeper dives, not a requirement!
+> Achievements are a menu for variety and stretch, not a checklist for EPA sign-off. 
 
-Each coin lists:
+Full KSB coverage is expected to emerge from the sum of your apprenticeship experiences. These achievements are one piece of a larger body of work that includes structured learning, assignments, delivery work and reflections.
+
+> Achievements should help you and your mentors have easier conversations about clearer goals.
+
+Achievements are linked to Duties/KSBs so you can see what kind of skills each one builds and map them in your portfolio evidence. They are grouped them into themes that help directly relate them to your role and career progression.
+
+## Structure
+Achievements are grouped into 10 themes, each mapping to a cluster of related Duties. 
+
+> **You are not expected to complete every achievement.** You should aim for a minimum of 10 achievements during your apprenticeship. 
+
+As a guideline, aim for at least 1-2 achievements per theme over the course of your apprenticeship, choosing the ones most relevant to your project and interests. 
+
+Some achievements are marked as advanced because they're expected to take longer, be more complex, or because they build upon knowledge you'll need from another achievement or personal project.
+
+Some achievements are marked as advanced because they rely on your consultancy skills - giving presentations and mentoring others. Advanced achievements are an optional deeper-dive into an area.
+
+Each achievement lists:
 
 - Duties it evidences (D1-D13, per the apprenticeship standard)
 - KSBs it evidences (Knowledge, Skill, and Behaviour references)
-- Evidence — what you need to produce or demonstrate to claim the coin
+- Evidence — what you need to produce or demonstrate to claim the achievement
 
 ## Evidence format
-Every coin's primary evidence is an artefact — a pipeline, a diagram, a test suite, a tuned alert, a retro output, a mentee's written reflection. This should stand on its own; you don't need a witness sign-off to claim most coins.
+Every achievement should produce a tangible piece of evidence (a pipeline, diagram, test suite, report, written reflection etc.). 
 
-Separately, your apprenticeship also requires 3 formal Employer Witness Testimonies across the whole programme, each completed by a senior delivery stakeholder and covering two dated, real examples of you demonstrating competency.
+> You don't need a witness sign-off to claim most achievements, but writing reports about work you've done (and decisions you made!) helps consolidate your learning, and practice communicating technical concepts.
 
-These 3 testimonies aren't tied to individual coins — each one should map holistically across whichever coins/duties the observed examples naturally cover, per the standard's own guidance ("one example could cover criteria from multiple modules across the standard"). In practice:
+Separately, your apprenticeship also requires at least 3 formal Employer Witness Testimonies, each completed by a senior delivery stakeholder and covering two dated, real examples of you demonstrating competency.
 
-- Most coins only ever need the artefact — no witness required.
-- Aim to line up your 3 testimonies with moments that naturally span several coins at once, especially ones evidencing interpersonal/cultural duties (D2, D3, D4, D13), where a stakeholder's outside perspective adds something the artefact alone can't.
-- Space the 3 testimonies out across the apprenticeship (e.g. roughly one every 2-3 months, after you've finished bootcamp and joined a delivery) rather than leaving them all to the end — talk to your point of contact/people manager about timing.
+These 3 testimonies aren't tied to individual achievements — each one should map across whichever achievements/duties the observed examples naturally cover, per the standard's own guidance ("one example could cover criteria from multiple modules across the standard"). 
+
+In practice:
+
+- Most achievements only ever need the artefact — no witness required.
+- Aim to line up your 3 testimonies with moments that naturally span several achievements at once, especially ones evidencing interpersonal/cultural duties (D2, D3, D4, D13), where a stakeholder's outside perspective adds something the artefact alone can't.
+- Space the 3 testimonies out across the apprenticeship (e.g. roughly one every 2-3 months, once you've finished bootcamp and joined a delivery) rather than leaving them all to the end — talk to your point of contact/people manager about timing.
 
 See witness-testimony-template.md in this directory for the testimony format itself.
