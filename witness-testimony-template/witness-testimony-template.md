@@ -1,13 +1,13 @@
 # Employer Witness Testimony
 
-Use this template for each of your **3 required Employer Witness Testimonies** across the apprenticeship (see `coins.md` → *Evidence format* for when to use these).
+Use this template for each of your **3 required Employer Witness Testimonies** across the apprenticeship (see `achievements.md` → *Evidence format* for when to use these).
 
 ## Guidance for the witness
 
 - You need to be in a senior role or above, and know the apprentice's day-to-day work well enough to vouch for what you saw.
 - Provide **two examples**, each with a date (month & year), drawn from real work — not simulated exercises.
-- Before the observation, the apprentice will tell you which **Coin(s)** they'd like you to focus on, along with the Duties and Knowledge/Skills/Behaviours (KSBs) that coin evidences. You're **confirming** those were genuinely demonstrated — you don't need to work out the mapping yourself.
-- One good example can easily cover several coins/duties at once — that's expected and encouraged.
+- Before the observation, the apprentice will tell you which **Achievements(s)** they'd like you to focus on, along with the Duties and Knowledge/Skills/Behaviours (KSBs) that coin evidences. You're **confirming** those were genuinely demonstrated — you don't need to work out the mapping yourself.
+- One good example can easily cover several achievements/duties at once — that's expected and encouraged.
 - This can be submitted as an audio recording instead of written text if that's easier — just cover the same sections below.
 
 ---
@@ -26,7 +26,7 @@ Use this template for each of your **3 required Employer Witness Testimonies** a
 
 **Date (month/year):**
 
-**Coin(s) this example evidences** *(pre-filled by apprentice, e.g. "Own It — D13 — S11, B3")*:
+**Achievement(s) this example evidences** *(pre-filled by apprentice, e.g. "Own It — D13 — S11, B3")*:
 
 **What happened:** *In your own words — what was the situation, what did the apprentice do, and what was the outcome? A few sentences is plenty.*
 
@@ -38,7 +38,7 @@ Use this template for each of your **3 required Employer Witness Testimonies** a
 
 **Date (month/year):**
 
-**Coin(s) this example evidences:**
+**Achievement(s) this example evidences:**
 
 **What happened:**
 
