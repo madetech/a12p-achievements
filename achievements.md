@@ -167,6 +167,11 @@ Use a lightweight modelling technique (whiteboarding, sketching, C4 diagrams, et
 
 Propose and justify an architecture or design change driven primarily by user experience, scalability, security, high availability, or performance considerations. Show the user need behind it, not just the technical motivation.
 
+### Shape the Schema
+**Duties:** D1, D8 · **KSBs:** K7, K12, K21, S17, S22
+
+Design and implement a database schema using clean, parameterised queries or ORM calls supported by automated tests. Explain your choices around data types, relationships, and basic indexing to meet performance requirements.
+
 ### Data Decisions
 **Duties:** D8 · **KSBs:** K12
 
