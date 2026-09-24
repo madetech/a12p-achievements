@@ -98,9 +98,9 @@ Apply a structured problem-solving technique (affinity mapping, impact mapping, 
 *Duties: D5*
 
 ### Branch Smart
-**Duties:** D5 · **KSBs:** K2, S20
+**Duties:** D3, D5 · **KSBs:** K2, K20, S20, B1
 
-Demonstrate effective use of a branching strategy (trunk-based development, short-lived feature branches, or feature toggling/branching by abstraction) that keeps merges frequent and low-risk. Explain the strategy chosen and why it suits your team's context.
+Apply a low-risk branching strategy (e.g., short-lived feature branches, trunk-based development, or feature toggles) to keep merges frequent. Actively participate in peer code reviews by providing constructive PR feedback on readability and test coverage, and acting on feedback received on your own code.
 
 ### Green Pipeline
 **Duties:** D5 · **KSBs:** K1, S15
