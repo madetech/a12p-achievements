@@ -1,5 +1,17 @@
 # a12p-achievements
 
+## Themes Overview
+* [Theme 1: Code & Test Craft](.themes/01-code-and-test-craft.md)
+* [Theme 2: Cloud Infrastructure & Infrastructure-as-Code (IaC)](./themes/02-cloud-infrastructure-and-iac.md)
+* [Theme 3: Collaboration & Mentoring](./themes/03-collaboration-and-mentoring.md)
+* [Theme 4: Continuous Learning](./themes/04-continuous-learning.md)
+* [Theme 5: Ways of Working](./themes/05-ways-of-working.md)
+* [Theme 6: Continuous Integration & Version Control](./themes/06-continuous-integration-and-version-control.md)
+* [Theme 7: Release & Deployment Automation](./themes/07-release-and-deployment-automation.md)
+* [Theme 8: Observability](./themes/08-observability.md)
+* [Theme 9: Architecture & Design](./themes/09-architecture-and-design.md)
+* [Theme 10: Security](./themes/10-security.md)
+
 ## How this works
 > Achievements are self-contained, atomic goals that provide evidence towards one or more apprenticeship Duties / KSBs. 
 
