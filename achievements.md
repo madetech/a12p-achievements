@@ -47,6 +47,11 @@ Complete a structured run of pair or group programming sessions (e.g. across a s
 
 Deliver a knowledge-sharing session (talk, workshop, lunch-and-learn, or written guide) to your team or a wider community of practice on a technical topic. Show how you tailored the format/channel to your audience.
 
+### Show & Tell
+**Duties:** D2, D4 · **KSBs:** K10, K18, K19, S1, S2, S4, B1, B4
+
+Prepare and deliver a live feature demonstration or technical update to non-technical stakeholders. Frame the presentation around user value rather than technical implementation details, and handle any stakeholder questions clearly and professionally.
+
 ### Consensus Builder
 **Duties:** D2, D4, · **KSBs:** K19, K23, S1, S2, S8, B1, B4
 
