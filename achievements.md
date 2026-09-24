@@ -40,12 +40,17 @@ Identify a piece of legacy or poorly-structured code. Incrementally refactor it 
 ### Pair Programmer
 **Duties:** D3 · **KSBs:** K20, S13
 
-Complete a structured run of pair or mob programming sessions (e.g. across a sprint or a specific piece of work). Reflect on which pairing technique(s) you used (driver/navigator, ping-pong, strong-style, mobbing) and when/why, plus what you personally learned and taught.
+Complete a structured run of pair or group programming sessions (e.g. across a sprint or a specific piece of work). Reflect on which pairing technique(s) you used (driver/navigator, ping-pong, strong-style, ensemble) and when/why, plus what you personally learned and taught.
 
 ### Teach to Learn
 **Duties:** D2 · **KSBs:** K19, S1, S4
 
 Deliver a knowledge-sharing session (talk, workshop, lunch-and-learn, or written guide) to your team or a wider community of practice on a technical topic. Show how you tailored the format/channel to your audience.
+
+### Consensus Builder
+**Duties:** D2, D4, · **KSBs:** K19, K23, S1, S2, S8, B1, B4
+
+Navigate a technical disagreement or delivery trade-off with your team and/or stakeholders. Present alternative options, evaluate trade-offs objectively, and guide the group to a constructive, blameless alignment. Document the outcome and reflect on how consensus was reached.
 
 ### Grow a Colleague *(advanced)*
 **Duties:** D2 · **KSBs:** S4, S16, B1
