@@ -172,6 +172,11 @@ Propose and justify an architecture or design change driven primarily by user ex
 
 Design and implement a database schema using clean, parameterised queries or ORM calls supported by automated tests. Explain your choices around data types, relationships, and basic indexing to meet performance requirements.
 
+### Interface Fluent
+**Duties:** D1, D6, D8 · **KSBs:** K7, K17, K21, S17, S21
+
+Design, build, and document an API. Define input/output schemas (e.g., OpenAPI, JSON Schema), write integration tests for success and failure paths, and explain your choice of status codes or integration patterns.
+
 ### Data Decisions
 **Duties:** D8 · **KSBs:** K12
 
