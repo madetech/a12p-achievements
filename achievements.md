@@ -58,9 +58,9 @@ Prepare and deliver a live feature demonstration or technical update to non-tech
 Navigate a technical disagreement or delivery trade-off with your team and/or stakeholders. Present alternative options, evaluate trade-offs objectively, and guide the group to a constructive, blameless alignment. Document the outcome and reflect on how consensus was reached.
 
 ### Grow a Colleague *(advanced)*
-**Duties:** D2 · **KSBs:** S4, S16, B1
+**Duties:** D2 · **KSBs:** S4, S16, B1, B4
 
-Provide sustained support to a specific team member's development over multiple weeks (e.g. regular structured pairing, mentoring check-ins, code review guidance). Gather their perspective on what changed for them as a result.
+Provide sustained mentoring to a colleague over several weeks through pairing or regular check-ins. Help them set mentoring goals, offer empathetic feedback on their progress, and gather their reflection on what changed for them as a result.
 
 ### Bring in the Non-Coder *(advanced)*
 **Duties:** D2, D3 · **KSBs:** K20, S4, S13
