@@ -6,7 +6,7 @@ Use this template for each of your **3 required Employer Witness Testimonies** a
 
 - You need to be in a senior role or above, and know the apprentice's day-to-day work well enough to vouch for what you saw.
 - Provide **two examples**, each with a date (month & year), drawn from real work — not simulated exercises.
-- Before the observation, the apprentice will tell you which **Achievements(s)** they'd like you to focus on, along with the Duties and Knowledge/Skills/Behaviours (KSBs) that coin evidences. You're **confirming** those were genuinely demonstrated — you don't need to work out the mapping yourself.
+- Before the observation, the apprentice will tell you which **Achievements(s)** they'd like you to focus on, along with the Duties and Knowledge/Skills/Behaviours (KSBs) evidenced. You're **confirming** those were genuinely demonstrated — you don't need to work out the mapping yourself.
 - One good example can easily cover several achievements/duties at once — that's expected and encouraged.
 - This can be submitted as an audio recording instead of written text if that's easier — just cover the same sections below.
 
