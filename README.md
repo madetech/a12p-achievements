@@ -1,7 +1,7 @@
 # a12p-achievements
 
 ## Themes Overview
-* [Theme 1: Code & Test Craft](.themes/01-code-and-test-craft.md)
+* [Theme 1: Code & Test Craft](./themes/01-code-and-test-craft.md)
 * [Theme 2: Cloud Infrastructure & Infrastructure-as-Code (IaC)](./themes/02-cloud-infrastructure-and-iac.md)
 * [Theme 3: Collaboration & Mentoring](./themes/03-collaboration-and-mentoring.md)
 * [Theme 4: Continuous Learning](./themes/04-continuous-learning.md)
