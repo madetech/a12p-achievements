@@ -13,7 +13,7 @@ Deploy infrastructure using an immutable pattern (rebuild rather than in-place p
 ### Right-Size the Cloud
 **Duties:** D7 · **KSBs:** K4, K21
 
-Provision or refactor a piece of infrastructure with explicit cost/performance tradeoffs considered (instance sizing, autoscaling policy, storage tier). Show the reasoning and, where possible, the measured before/after impact.
+Provision or refactor a piece of infrastructure and consider cost/performance tradeoffs (instance size, autoscaling, storage tier etc.). Document the process, the decisions you made, and if possible, the measured before/after impact.
 
 ### Try the New Thing *(advanced)*
 **Duties:** D7 · **KSBs:** K21, K24
