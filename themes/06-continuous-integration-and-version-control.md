@@ -14,4 +14,4 @@ Build or operate a CI pipeline that automatically runs the test suite and produc
 ### Extend the Pipeline *(advanced)*
 **Duties:** D5 · **KSBs:** K1, K2, S15
 
-Design, build, and integrate a new capability into an existing CI/CD pipeline — e.g. a new automated check, a new artefact-publishing step, or bringing a previously untracked category of project artefact (config, infra definitions, docs) under version control with the pipeline itself enforcing it. Take it from idea to a real, running pipeline stage the team relies on for every relevant commit/PR.
+Design, build, and integrate a new capability (e.g. an automated check, artefact-publishing step, bringing a previously untracked project artefact under version control) into an existing CI/CD pipeline. Take it from idea to a real, running pipeline stage the team uses for every relevant commit/PR.

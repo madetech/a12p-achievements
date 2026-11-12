@@ -13,7 +13,7 @@ Write integration and/or end-to-end tests for a real feature, deliberately decid
 ### Second Tongue
 **Duties:** D1 · **KSBs:** K7, S17
 
-Complete a genuine piece of work in a second general-purpose programming language, different from the one you use day-to-day — either real work for your delivery (e.g. a Python or Go script/tool alongside a mostly TypeScript project) or a side project with real shape to it (e.g. a small full-stack to-do app) — a kata or single exercise isn't enough on its own. Explain what transferred from your primary language, what didn't, and one thing the new language does differently that changed how you approached a problem.
+Complete a piece of work in a second general-purpose programming language, different from the one you use day-to-day — either real work for your delivery (e.g. a Python or Go script/tool alongside a mostly TypeScript project) or a side project with real shape to it (e.g. a small full-stack app). Explain what transferred from your primary language, what didn't, and one thing the new language does differently that changed how you approached a problem.
 
 ### Find the Blind Spots
 **Duties:** D1 · **KSBs:** K14, S14

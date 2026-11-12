@@ -13,7 +13,7 @@ Propose and justify an architecture or design change driven primarily by user ex
 ### Shape the Schema
 **Duties:** D1, D8 · **KSBs:** K7, K12, K21, S17, S22
 
-Design and implement a database schema using clean, parameterised queries or ORM calls supported by automated tests. Explain your choices around data types, relationships, and basic indexing to meet performance requirements.
+Design and implement a database schema. Explain your decisions (data types, relationships etc.) and use the schema with an ORM / parameterised queries.
 
 ### Interface Fluent
 **Duties:** D1, D6, D8 · **KSBs:** K7, K17, K21, S17, S21

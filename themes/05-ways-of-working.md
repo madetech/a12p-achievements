@@ -3,7 +3,7 @@
 ### Own It
 **Duties:** D13 · **KSBs:** S11, B3
 
-Take an active, hands-on role in responding to a real production issue, alert, or incident — whether or not the triggering change was yours — covering diagnosis, remediation, and root cause analysis. Document what happened, how you and the team worked through it, and what you'd do differently next time.
+Take an active, hands-on role in responding to a real production issue, alert, or incident. Document what happened, how you and the team worked through it by diagnosing and remediating, and what you'd do differently next time through root cause analysis.
 
 ### Blameless Retro
 **Duties:** D4 · **KSBs:** K23, B4
